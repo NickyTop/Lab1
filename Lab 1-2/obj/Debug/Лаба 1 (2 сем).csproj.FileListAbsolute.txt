@@ -1,0 +1,46 @@
+D:\Проекты VS\Лаба 1 (2 сем)\obj\Debug\Лаба 1 (2 сем).csprojAssemblyReference.cache
+D:\Проекты VS\Лаба 1 (2 сем)\obj\Debug\MainWindow.g.cs
+D:\Проекты VS\Лаба 1 (2 сем)\obj\Debug\Window1.g.cs
+D:\Проекты VS\Лаба 1 (2 сем)\obj\Debug\Window2.g.cs
+D:\Проекты VS\Лаба 1 (2 сем)\obj\Debug\Window3.g.cs
+D:\Проекты VS\Лаба 1 (2 сем)\obj\Debug\Window4.g.cs
+D:\Проекты VS\Лаба 1 (2 сем)\obj\Debug\App.g.cs
+D:\Проекты VS\Лаба 1 (2 сем)\obj\Debug\Лаба 1 (2 сем)_MarkupCompile.cache
+D:\Проекты VS\Лаба 1 (2 сем)\obj\Debug\Лаба 1 (2 сем)_MarkupCompile.lref
+D:\Проекты VS\Лаба 1 (2 сем)\bin\Debug\Лаба 1 (2 сем).exe.config
+D:\Проекты VS\Лаба 1 (2 сем)\bin\Debug\Лаба 1 (2 сем).exe
+D:\Проекты VS\Лаба 1 (2 сем)\bin\Debug\Лаба 1 (2 сем).pdb
+D:\Проекты VS\Лаба 1 (2 сем)\obj\Debug\MainWindow.baml
+D:\Проекты VS\Лаба 1 (2 сем)\obj\Debug\Window1.baml
+D:\Проекты VS\Лаба 1 (2 сем)\obj\Debug\Window2.baml
+D:\Проекты VS\Лаба 1 (2 сем)\obj\Debug\Window3.baml
+D:\Проекты VS\Лаба 1 (2 сем)\obj\Debug\Window4.baml
+D:\Проекты VS\Лаба 1 (2 сем)\obj\Debug\Лаба 1 (2 сем).g.resources
+D:\Проекты VS\Лаба 1 (2 сем)\obj\Debug\Лаба_1__2_сем_.Properties.Resources.resources
+D:\Проекты VS\Лаба 1 (2 сем)\obj\Debug\Лаба 1 (2 сем).csproj.GenerateResource.cache
+D:\Проекты VS\Лаба 1 (2 сем)\obj\Debug\Лаба 1 (2 сем).csproj.CoreCompileInputs.cache
+D:\Проекты VS\Лаба 1 (2 сем)\obj\Debug\Лаба 1 (2 сем).exe
+D:\Проекты VS\Лаба 1 (2 сем)\obj\Debug\Лаба 1 (2 сем).pdb
+D:\Проекты VS\Lab 1-2\obj\Debug\Лаба 1 (2 сем).csprojAssemblyReference.cache
+D:\Проекты VS\Lab 1-2\obj\Debug\MainWindow.g.cs
+D:\Проекты VS\Lab 1-2\obj\Debug\Window1.g.cs
+D:\Проекты VS\Lab 1-2\obj\Debug\Window2.g.cs
+D:\Проекты VS\Lab 1-2\obj\Debug\Window3.g.cs
+D:\Проекты VS\Lab 1-2\obj\Debug\Window4.g.cs
+D:\Проекты VS\Lab 1-2\obj\Debug\App.g.cs
+D:\Проекты VS\Lab 1-2\obj\Debug\Лаба 1 (2 сем)_MarkupCompile.cache
+D:\Проекты VS\Lab 1-2\obj\Debug\Лаба 1 (2 сем)_MarkupCompile.lref
+D:\Проекты VS\Lab 1-2\obj\Debug\Лаба 1 (2 сем).exe
+D:\Проекты VS\Lab 1-2\obj\Debug\Лаба 1 (2 сем).pdb
+D:\Проекты VS\Lab 1-2\bin\Debug\Лаба 1 (2 сем).exe.config
+D:\Проекты VS\Lab 1-2\bin\Debug\Лаба 1 (2 сем).exe
+D:\Проекты VS\Lab 1-2\bin\Debug\Лаба 1 (2 сем).pdb
+D:\Проекты VS\Lab 1-2\obj\Debug\MainWindow.baml
+D:\Проекты VS\Lab 1-2\obj\Debug\Window1.baml
+D:\Проекты VS\Lab 1-2\obj\Debug\Window2.baml
+D:\Проекты VS\Lab 1-2\obj\Debug\Window3.baml
+D:\Проекты VS\Lab 1-2\obj\Debug\Window4.baml
+D:\Проекты VS\Lab 1-2\obj\Debug\Лаба 1 (2 сем).g.resources
+D:\Проекты VS\Lab 1-2\obj\Debug\Лаба_1__2_сем_.Properties.Resources.resources
+D:\Проекты VS\Lab 1-2\obj\Debug\Лаба 1 (2 сем).csproj.GenerateResource.cache
+D:\Проекты VS\Lab 1-2\obj\Debug\Лаба 1 (2 сем).csproj.CoreCompileInputs.cache

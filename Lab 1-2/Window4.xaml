@@ -1,0 +1,15 @@
+﻿<Window x:Class="Лаба_1__2_сем_.Window4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Лаба_1__2_сем_"
+        mc:Ignorable="d"
+        Title="Window4" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen">
+    <Grid Background="#FF5FEDA8">
+        <TextBlock FontSize="20" HorizontalAlignment="Center">Made by:</TextBlock>
+        <Button Content="До головного екрану" HorizontalAlignment="Left" Margin="638,344,0,0" VerticalAlignment="Top" Width="135" Height="46" Background="White" Opacity="0.9" Click="GoToMainWin_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="195,125,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="135" Width="413" FontFamily="Yu Gothic UI Semibold" FontSize="36" TextAlignment="Center"><Run Text="Soroka Mykyta "/><Run Text="Ivanovich"/><LineBreak/><Run Text="KP-13"/><LineBreak/><Run Text="2022"/></TextBlock>
+    </Grid>
+</Window>
